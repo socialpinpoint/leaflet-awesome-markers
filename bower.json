@@ -1,7 +1,7 @@
 {
-  "name": "Leaflet.awesome-markers",
+  "name": "leaflet-awesome-markers",
   "version": "2.0.2",
-  "homepage": "https://github.com/lvoogdt/Leaflet.awesome-markers",
+  "homepage": "https://github.com/tributech/leaflet-awesome-markers",
   "authors": [
     "Lennard Voogdt <lvoogdt@gmail.com>"
   ],
